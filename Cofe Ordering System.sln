@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cofe Ordering System", "Cofe Ordering System\Cofe Ordering System.csproj", "{A66F5717-0776-4DE9-BD8B-1E748ADAC05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66F5717-0776-4DE9-BD8B-1E748ADAC05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66F5717-0776-4DE9-BD8B-1E748ADAC05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66F5717-0776-4DE9-BD8B-1E748ADAC05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66F5717-0776-4DE9-BD8B-1E748ADAC05A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5DDE680-5361-40EC-A0D4-B8C432A7ADC4}
+	EndGlobalSection
+EndGlobal
